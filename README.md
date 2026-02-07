@@ -15,14 +15,9 @@ I turn **ideas into visuals** — explainers, motion graphics, cinematic edits &
 
 ---
 
-## 📊 GitHub Stats
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinay-Singh-561&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Focus Right Now
 - Motion graphics & visual storytelling  
-- Explainer videos (Dhruv Rathee / Nitish Rajput style)  
+- Explainer videos (Nitish Rajput style)  
 - Speed + quality editing workflows  
 - Turning creative skills into real income
 
