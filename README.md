@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hey, I’m Vinay Singh Adhikari
 
-<!--
-**Vinay-Singh-561/Vinay-Singh-561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative **Video Editor & Motion Designer from India 🇮🇳**  
+20 y/o | Learning fast | Building in public | No shortcuts, only skills.
 
-Here are some ideas to get you started:
+I turn **ideas into visuals** — explainers, motion graphics, cinematic edits & short-form content that actually holds attention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools I Use
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-00A4A6?style=for-the-badge&logo=autodesk&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinay-Singh-561&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Focus Right Now
+- Motion graphics & visual storytelling  
+- Explainer videos (Dhruv Rathee / Nitish Rajput style)  
+- Speed + quality editing workflows  
+- Turning creative skills into real income
+
+---
+
+## 💭 Mindset
+> Talent is overrated.  
+> Consistency + clarity + patience wins.
+
+Learning daily. Shipping regularly. Leveling up silently. 🚀
